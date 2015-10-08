@@ -1,0 +1,57 @@
+<products>
+book
+Data Abstraction & Problem Solving with C++
+79.99
+20
+978-013292372-9 
+Carrano and Henry
+book
+Great Men and Women of Troy
+19.50
+5
+978-000000000-1
+Tommy Trojan
+clothing
+Men's Fitted Shirt
+39.99
+25
+Medium
+J. Crew
+movie
+Whiplash DVD
+17.99
+1
+Drama
+R
+book
+ALberto's life
+8.959
+100
+978-000000000-2
+Alberto Prego
+clothing
+Beto jordan!s
+90.9
+40
+Huge
+prezcot
+movie
+Movie life
+9.99
+32
+Drama
+R
+</products>
+<users>
+ttrojan 19 100.00 0
+redekopp 36 50.00 1
+aaroncot 30 120.00 1
+</users>
+<reviews>
+Whiplash DVD
+4 2013-04-05 Good thing our CS professors are nicer than J.K. Simmons was
+Whiplash DVD
+5 2014-01-05 Excellent...Oscar worthy
+Data Abstraction & Problem Solving with C++
+3 2013-12-25 Is this required?
+</reviews>
